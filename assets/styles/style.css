@@ -37,6 +37,7 @@ body {
     font-size: 18px;
     letter-spacing: 0.13em;
     color: var(--color-grey-desc);
+    text-transform: uppercase;
 }
 .section__title::before {
     content: "";
