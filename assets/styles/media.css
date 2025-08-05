@@ -1,0 +1,20 @@
+@media (max-width: 1200px) {
+
+
+}
+@media (max-width: 992px) {
+    .hero__title {
+        font-size: 50px;
+    }
+}
+@media (max-width: 768px) {
+    .header__nav {
+        display: none;
+    }
+    .burger {
+        display: block;
+    }
+    .about__flex {
+        flex-wrap
+    }
+}
